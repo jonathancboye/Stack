@@ -1,0 +1,11 @@
+//File: README
+//by: Jonathan Carpenter
+//Email: carpenter.102@wright.edu
+
+This program creates a stack and allows the user to test
+its functionality.
+
+To run this program in unix enviornment:
+   1) unizip
+   2) type "make"
+   3) type "./stack" to run the program
